@@ -40,7 +40,7 @@ Responsibility Page:
 1. Featured video
 2. Main content: Title and paragraphs
 3. Featured articles: image, title and small description
-4. Sidebar: articles menu, newsletter subscription, Starbucks Global Responsibility Goals & Progress with image and learn more link
+4. Sidebar: articles menu, newsletter subscription, CoffeeShop Global Responsibility Goals & Progress with image and learn more link
 Gift card Page:
 
 1. Title, image and description
