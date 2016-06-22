@@ -1,17 +1,18 @@
-# Starbucks-Website-Redesign
-Redesign of the Starbucks website
+# CoffeeShop-Website
+Web Design for CoffeeShop
 
 Website Plan:
 
 Sitemap:
 
-1. Coffee
-2. Menu
-3. Coffeehouse
-4. Responsibility
-5. Card
-6. Blog
-7. Shop
+1. Home
+2. Coffee
+3. Menu
+4. Card
+5. Charity
+6. About Us
+7. Blog
+8. Shop
 
 Common elements in all pages:
 
@@ -21,14 +22,13 @@ Common elements in all pages:
 Homepage:
 
 1. Banner area with featured deal: title, small description, image and a link to learn more
-2. “Starbucks Rewards” Section
-3. “Pay with your phone” section
+2. “Rewards” and “Pay with your phone” Section
 
 Coffee Page:
 
 1. “One tree for every bag” section
 2. “COFFEE FINDER” section
-3. “Starbucks Reserve®” section
+3. “Reserve®” section
 4. “How to brew” section
 
 MENU page:
@@ -53,9 +53,8 @@ Blog Page:
 1. Banner
 2. Categories menu
 3. Article feed
-4. Collections
-5. Sidebar with newsletter subscription 
-6. Popular searches
+4. Sidebar with newsletter subscription 
+7. Popular searches
 
 Shop Page:
 
